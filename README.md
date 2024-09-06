@@ -1,0 +1,1 @@
+Es un juego hecho en Java (Sin graficos incoporados) que contiene todos los aspectos técnicos de Java y Programación Orientada a Objetos que hice a lo largo del curso por la materia "Lenguajes de Programación"
